@@ -347,7 +347,7 @@ if (process.argv.length > 2) {
         }
     }
 } else {
-    console.log("welcome to 2l shell");
+    console.log("welcome to 2let shell");
     console.log("type .endprom to stop the program");
     var command = "";
     while (command != ".endprom") {
