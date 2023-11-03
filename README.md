@@ -4,4 +4,11 @@
 
 If you see me updating this, consider it a miracle.
 
+## module requirements
+|module name|install w npm|
+|-|-|
+|fs|`npm install fs`|
+|easyansi|`npm install m.easyansi`|
+|prompt-sync|`npm install prompt-sync`|
+
 ## docs are in DOCS.md
