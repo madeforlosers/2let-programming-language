@@ -11,4 +11,4 @@ If you see me updating this, consider it a miracle.
 |easyansi|`npm install m.easyansi`|
 |prompt-sync|`npm install prompt-sync`|
 
-## docs are in DOCS.md
+## docs are in the wiki tab
